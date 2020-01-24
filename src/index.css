@@ -29,3 +29,9 @@ li {
 li:nth-child(odd) {
   background-color: #ccc;
 }
+.enabled {
+  font-weight: bold;
+}
+.disabled {
+  color: grey;
+}
